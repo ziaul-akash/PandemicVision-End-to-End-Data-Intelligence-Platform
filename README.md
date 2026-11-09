@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ☁️ Azure End-to-End COVID-19 Data Engineering Pipeline
+# ☁️ PandemicVision – End-to-End Data Intelligence Platform
 
 ### Building a Scalable Cloud Data Engineering & Analytics Solution Using Microsoft Azure
 
