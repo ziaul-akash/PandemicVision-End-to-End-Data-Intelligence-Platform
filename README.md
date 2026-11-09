@@ -684,7 +684,7 @@ Azure-COVID19-Data-Engineering/
 
 ## 🏆 Project Conclusion
 
-The Azure End-to-End COVID-19 Data Engineering Pipeline demonstrates how Microsoft Azure services can be integrated to develop a complete cloud-based data engineering solution.
+The PandemicVision – End-to-End Data Intelligence Platform demonstrates how Microsoft Azure services can be integrated to develop a complete cloud-based data engineering solution.
 
 By combining Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure HDInsight, Azure SQL Database, and Power BI, this project establishes a structured workflow for data ingestion, storage, transformation, enrichment, and visualization.
 
