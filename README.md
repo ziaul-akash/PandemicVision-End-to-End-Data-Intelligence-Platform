@@ -253,13 +253,7 @@ Azure Data Factory acts as the central orchestration and ingestion engine.
 | Trigger | Automate execution |
 | Monitoring | Track pipeline execution |
 
-<!-- Add Azure Data Factory screenshot here -->
 
-<p align="center">
-  <img src="power-bi-dashboard/../architecture/adf_pipeline.png"
-       alt="Azure Data Factory Pipeline"
-       width="90%" />
-</p>
 
 ### 2. Data Storage – ADLS Gen2
 
