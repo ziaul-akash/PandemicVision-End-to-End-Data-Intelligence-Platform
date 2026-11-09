@@ -45,7 +45,7 @@
 
 ## 🚀 Project Overview
 
-The **Azure End-to-End COVID-19 Data Engineering Pipeline** is a cloud-based data engineering project designed to demonstrate how modern Microsoft Azure services can be integrated to build a scalable, automated, and analytics-ready data platform.
+The **PandemicVision – End-to-End Data Intelligence Platform** is a cloud-based data engineering project designed to demonstrate how modern Microsoft Azure services can be integrated to build a scalable, automated, and analytics-ready data platform.
 
 The project integrates COVID-19 public health data from the European Centre for Disease Prevention and Control (ECDC) with population reference data stored in Azure Blob Storage.
 
