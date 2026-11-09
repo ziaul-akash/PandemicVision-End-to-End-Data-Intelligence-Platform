@@ -558,7 +558,19 @@ Power BI is used to create interactive dashboards based on the curated Azure SQL
 <!-- Add your actual Power BI screenshots below -->
 
 <p align="center">
-  <img src="power-bi-dashboard/covid_dashboard.png"
+  <img src="architecture/covid_19_powerBI_1.png"
+       alt="COVID-19 Power BI Dashboard"
+       width="100%" />
+</p>
+
+<p align="center">
+  <img src="architecture/covid_19_powerBI_2.png"
+       alt="COVID-19 Power BI Dashboard"
+       width="100%" />
+</p>
+
+<p align="center">
+  <img src="architecture/covid_19_powerBI_3.png"
        alt="COVID-19 Power BI Dashboard"
        width="100%" />
 </p>
