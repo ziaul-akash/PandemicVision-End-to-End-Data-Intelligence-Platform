@@ -641,47 +641,6 @@ The architecture can be extended with additional enterprise-grade capabilities.
 
 ---
 
-## 📁 Project Repository Structure
-
-```text
-Azure-COVID19-Data-Engineering/
-│
-├── README.md
-│
-├── architecture/
-│   ├── azure_architecture.png
-│   └── adf_pipeline.png
-│
-├── data/
-│   ├── raw/
-│   └── population/
-│
-├── azure-data-factory/
-│   ├── pipelines/
-│   ├── datasets/
-│   └── linked-services/
-│
-├── databricks/
-│   └── notebooks/
-│
-├── hdinsight/
-│   └── hive_queries/
-│
-├── sql/
-│   ├── schema/
-│   └── scripts/
-│
-├── power-bi-dashboard/
-│   └── covid_dashboard.png
-│
-└── docs/
-    └── implementation_notes.md
-```
-
-*This is a suggested repository structure. Include only the folders and implementation artifacts that are actually available.*
-
----
-
 ## 🏆 Project Conclusion
 
 The PandemicVision – End-to-End Data Intelligence Platform demonstrates how Microsoft Azure services can be integrated to develop a complete cloud-based data engineering solution.
